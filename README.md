@@ -20,7 +20,7 @@
   </div>
   <br>
 
-# Python-Template
+# PySysMonitor
 
 ## How to Run:
 
