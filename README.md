@@ -60,7 +60,8 @@ Unix-like systems (Linux/macOS):
 ## Requirements:
 
 ```bash
-
+psutil
+nvidia-ml-py3
 ```
 
 <br>
