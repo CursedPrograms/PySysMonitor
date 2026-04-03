@@ -24,6 +24,15 @@
 
 ## How to Run:
 
+python3 -m venv venv
+source venv/bin/activate
+
+sudo apt update
+sudo apt install python3-tk
+
+pip install --upgrade pip
+pip install -r requirements.txt
+
 ### Install Requirements
 
 Using Python directly:
@@ -60,7 +69,10 @@ Unix-like systems (Linux/macOS):
 ## Requirements:
 
 ```bash
-psutil
+Package Version
+------- -------
+pip     26.0.1
+psutil  7.2.2
 nvidia-ml-py3
 ```
 
