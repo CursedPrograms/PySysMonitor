@@ -78,7 +78,7 @@ nvidia-ml-py3
 
 <br>
 <div align="center">
-© Cursed Entertainment 202*
+© Cursed Entertainment 2026
 </div>
 <br>
 <div align="center">
